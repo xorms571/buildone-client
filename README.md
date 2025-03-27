@@ -2,9 +2,9 @@
 Team project to develop a complex to-do list web service.
 
 ## 📌 곽태근 역할 (ROLE)
-- [랜딩 페이지 개발 (Landing Page)](#1️⃣-랜딩-페이지-개발 (Landing-Page))
-- [모든 할 일 목록 페이지 개발 (All To-Do List Page)](#2️⃣-모든-할-일-목록-페이지-개발 (All To-Do List Page))
-- [내비게이션 바 개발 (Navigation/Tab-Side Bar)](#2️⃣-모든-할-일-목록-페이지-개발 (All To-Do List Page))
+- 랜딩 페이지 개발 (Landing Page)
+- 모든 할 일 목록 페이지 개발 (All To-Do List Page)
+- 내비게이션 바 개발 (Navigation/Tab-Side Bar)
 - Todo 공통 컴포넌트 개발 (Todo Shared Component)
 - Sentry 환경 구축 (Sentry: Error Tracking and Performance Monitoring)
 - Jest 테스트 환경 구축 (Jest: Unit & Integration Testing)
@@ -27,7 +27,7 @@ Team project to develop a complex to-do list web service.
 
 ### 3️⃣ 내비게이션 바 개발 (Navigation/Tab-Side Bar)
 - 내비게이션 바는 화면 크기에 따라 구조가 달라지는 UI/UX가 필요
-- class-variance-authority 라이브러리를 활용하여 UI 스타일을 효율적으로 관리하고, 다양한 스타일 변형을 쉽게 적용
+- class-variance-authority 라이브러리를 활용, UI 스타일을 효율적으로 관리, 다양한 스타일 변형을 쉽게 적용
 - 처음에는 복잡했지만, 유지보수성과 재사용성을 높이는 방법을 배울 수 있었음
 
 ### 4️⃣ Todo 공통 컴포넌트 개발 (Todo Shared Component)
