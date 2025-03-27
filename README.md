@@ -1,6 +1,6 @@
 # 🏗 BuilDone: 할 일 목록 웹 서비스 프로젝트
-Team project to develop a complex to-do list web service.
-팀 프로젝트 깃허브 링크 https://github.com/codeit-si/buildone-client
+Team project to develop a complex to-do list web service.  
+팀 프로젝트 깃허브 링크: https://github.com/codeit-si/buildone-client
 
 ## 📌 곽태근 역할 (ROLE)
 - 랜딩 페이지 개발 (Landing Page)
